@@ -1,0 +1,6 @@
+print("Cryptanalysis Summary")
+print("---------------------")
+print("Known plaintext can reveal keys in weak XOR ciphers.")
+print("Frequency analysis exposes statistical patterns.")
+print("Differential analysis helps identify weaknesses.")
+print("Strong block ciphers resist these attacks.")
